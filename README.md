@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucyverne
 - 👀 I’m interested in coding(obviously), simracing, building custom PCs/keyboards, music- both listening and creating/playing
-- 🌱 I’m currently learning nextgenstyle vm's (read as 'current-gen' cause I'm not very updated) with 
+- 🌱 I’m currently learning nextgenstyle vm's (read as 'current-gen' cause I'm not very updated) with node/react
 - 💞️ I’m looking to collaborate on nothing in particular, but hit me up for some nextgen jazzimbo if you want
 - 📫 Reach me via pm's on here
 
